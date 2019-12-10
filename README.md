@@ -1,28 +1,31 @@
 # Unity2019114f1-2D-Template
 
 ### Project description: 
-Introduction/Project summary 
+This project is going to be a simple calculater, which can only subtract and display the result by clicking the button "Sub Numbers".
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+MacOS Catalina, Unity Version 2019.1.14f1, Visual Studio Code
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL (refRes: 1280x720 HD-720p)
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+TODO
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+TODO
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Unityproject Template from: 3ahmnm-htlsbg/Unity2019114f1-2D-Template
 
 ### Project state: 
-incl. progress in percent
+TODO
 
 ### Limitations: 
+TODO
 
 ### Lessons Learned: 
 
-Copyright by you :)
++ create GUI and Input Field 
+
+Copyright by Dejan :)
