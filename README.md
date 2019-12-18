@@ -4,7 +4,7 @@
 This project is going to be a simple calculater, which can only subtract and display the result by clicking the button "Sub Numbers".
 
 ### Development platform: 
-MacOS Catalina, Unity Version 2019.1.14f1, Visual Studio Code
+MacOS Catalina, Unity Version 2019.1.14f1, Visual Studio Code 1.41.0
 
 ### Target platform: 
 WebGL (refRes: 1280x720 HD-720p)
@@ -27,5 +27,6 @@ TODO
 ### Lessons Learned: 
 
 + create GUI and Input Field 
++ write code to subtract varA from varB
 
 Copyright by Dejan :)
